@@ -12,6 +12,8 @@ const NavbarComponent = () => {
           <Nav.Link as={Link} to="/HomePage">Home</Nav.Link>
           <Nav.Link as={Link} to="/Education">Education</Nav.Link>
           <Nav.Link as={Link} to="/Project">Project</Nav.Link>
+          <Nav.Link as={Link} to="/Certifications">Certifications</Nav.Link>
+
         </Nav>
       </Navbar.Collapse>
     </Navbar>
