@@ -1,0 +1,17 @@
+.home-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Use the full height of the screen */
+  background-color: whitesmoke; /* Light grey background */
+}
+
+.intro-card {
+  max-width: 500px;
+  padding: 20px;
+  margin: 20px;
+  background-color: rgb(113, 160, 192);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  border-radius: 8px;
+}
